@@ -1,0 +1,7 @@
+{
+    "key": {
+        "time": 600,
+        "maxCons": 20,
+        "curCons": 0
+    }
+}
